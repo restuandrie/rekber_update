@@ -1,0 +1,5 @@
+{
+  "name": "REKBERAN - Sistem Escrow Aman",
+  "description": "Aplikasi web untuk memfasilitasi transaksi escrow yang aman antara pembeli dan penjual. REKBERAN (Rekening Bersama Online) membantu mengamankan dana hingga kedua belah pihak puas.",
+  "requestFramePermissions": []
+}
